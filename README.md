@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Alletai, Please be patient I'am still learning 
-- 👀 I’m interested in WebDevelpment :)
+- 👀 I’m interested in WebDevelopment :)
 - 🌱 I’m currently learning C#, ASP.NET and JavaScript 
 - 📨 Contact me: allyssonalexander5@gmail.com
 - 😄 Pronouns: He/Him 
